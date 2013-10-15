@@ -17,4 +17,8 @@ V príkazovom riadku treba vykonať
 
 Server sa spustí na porte 9000
 
+## Detaily
+
+Aplikácia je celá spravená v [Play Frameworku](http://www.playframework.com/) v scale.
+Je použitá verzia play 2.0.6 .
 
