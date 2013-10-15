@@ -13,7 +13,7 @@ Ináč by teoreticky mala vedieť bežať na ľubovoľnom operačnom systéme.
 
 V príkazovom riadku treba vykonať 
 
-> ./target/start
+    $ ./target/start
 
 Server sa spustí na porte 9000
 
